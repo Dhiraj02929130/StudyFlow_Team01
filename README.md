@@ -22,7 +22,5 @@ A tool that generates a personalized study schedule using spaced repetition.
 4. Run the app:
    python app.py
 
-5. Open http://127.0.0.1:5000
-
 ## Status
 Sprint 1 — Project skeleton with hello world route.
